@@ -1,5 +1,4 @@
 # hello-world
-My first repository The new string in readme-file Repository clone from github to local pc and added this row
+My first repository on GitHub
 
-12334
-44444444444444444444444444
+Windows 10 -> vs code -> git -> GitHub Desktop Client -> GitHub
